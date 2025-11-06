@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-blank",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "Node for testing the portal",
     "license": "MIT",
     "homepage": "https://joffcom.net",
@@ -15,15 +15,15 @@
         "type": "git",
         "url": "https://github.com/Joffcom/n8n-nodes-blank.git"
     },
-   "scripts": {
-		"build": "n8n-node build",
-		"build:watch": "tsc --watch",
-		"dev": "n8n-node dev",
-		"lint": "n8n-node lint",
+    "scripts": {
+        "build": "n8n-node build",
+        "build:watch": "tsc --watch",
+        "dev": "n8n-node dev",
+        "lint": "n8n-node lint",
         "lint:fix": "n8n-node lint --fix",
-		"release": "n8n-node release",
-		"prepublishOnly": "n8n-node prerelease"
-	},
+        "release": "n8n-node release",
+        "prepublishOnly": "n8n-node prerelease"
+    },
     "files": [
         "dist"
     ],

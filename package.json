@@ -3,17 +3,17 @@
     "version": "0.1.1",
     "description": "Node for testing the portal",
     "license": "MIT",
-    "homepage": "",
+    "homepage": "https://joffcom.net",
     "keywords": [
         "n8n-community-node-package"
     ],
     "author": {
-        "name": "Jonathan Bennetts",
+        "name": "Jonathan",
         "email": "jon@joffcom.net"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/joffcom/n8n-nodes-blank.git"
+        "url": "https://github.com/Joffcom/n8n-nodes-blank.git"
     },
    "scripts": {
 		"build": "n8n-node build",
